@@ -1,0 +1,3 @@
+def coolThings:
+	dosomecoolthings()
+	return
